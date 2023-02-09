@@ -1,5 +1,5 @@
 ## ChatGpt
-![测试截图](chatgpt.png)
+![测试截图](./chatgpt.png)
 ## Usage
 ```bash
 python main.py
